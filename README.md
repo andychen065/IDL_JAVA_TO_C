@@ -1,0 +1,1 @@
+# IDL_JAVA_TO_C
