@@ -1,0 +1,11 @@
+struct NODE
+{
+double dx;
+double dy;
+string sz;
+char ca;
+long lb;
+boolean bc;
+};
+
+typedef sequence<NODE> NODES;
